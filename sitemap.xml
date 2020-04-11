@@ -3,36 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://raynehwang.github.io/</loc>
+    <loc>https://huanglei.rocks/blog/</loc>
+    <lastmod>2020-04-11T23:42:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huanglei.rocks/</loc>
+    <lastmod>2020-04-11T23:42:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huanglei.rocks/blog/test/</loc>
+    <lastmod>2020-04-11T23:42:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huanglei.rocks/posts/</loc>
     <lastmod>2020-04-11T23:26:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://raynehwang.github.io/posts/</loc>
+    <loc>https://huanglei.rocks/posts/test/</loc>
     <lastmod>2020-04-11T23:26:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://raynehwang.github.io/posts/test/</loc>
-    <lastmod>2020-04-11T23:26:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://raynehwang.github.io/posts/world/</loc>
+    <loc>https://huanglei.rocks/posts/world/</loc>
     <lastmod>2020-04-11T23:17:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://raynehwang.github.io/posts/hello/</loc>
+    <loc>https://huanglei.rocks/posts/hello/</loc>
     <lastmod>2020-04-11T23:14:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://raynehwang.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://raynehwang.github.io/tags/</loc>
+    <loc>https://huanglei.rocks/tags/</loc>
   </url>
   
 </urlset>
