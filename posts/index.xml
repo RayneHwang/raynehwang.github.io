@@ -26,13 +26,23 @@
 			<pubDate>Sat, 11 Apr 2020 23:17:44 +0800</pubDate>
 			
 			<guid>https://huanglei.rocks/posts/world/</guid>
-			<description>#fadaasasa
-sa sa sa</description>
-			<content type="html"><![CDATA[<p>#fadaasasa</p>
-<p>sa
-sa
-sa</p>
-]]></content>
+			<description>fadaasasa  sa sa sa  /* HelloWorld.java */ public class HelloWorld { public static void main(String[] args) { System.out.println(&amp;#34;Hello World!&amp;#34;); } } </description>
+			<content type="html"><![CDATA[<h1 id="fadaasasa">fadaasasa</h1>
+<ul>
+<li>sa</li>
+<li>sa</li>
+<li>sa</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-java" data-lang="java"><span class="cm">/* HelloWorld.java
+</span><span class="cm"> */</span>
+
+<span class="kd">public</span> <span class="kd">class</span> <span class="nc">HelloWorld</span>
+<span class="o">{</span>
+	<span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
+		<span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&#34;Hello World!&#34;</span><span class="o">);</span>
+	<span class="o">}</span>
+<span class="o">}</span>
+</code></pre></div>]]></content>
 		</item>
 		
 		<item>
